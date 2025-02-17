@@ -3,7 +3,7 @@ Introduction
 
 This project focuses on predicting the price of smartwatches using various machine learning models. By analyzing key features of different smartwatch models, the aim is to build an accurate predictive model that estimates the price based on relevant factors.
 
-Features
+Features:
 
 Data preprocessing and feature engineering.
 
